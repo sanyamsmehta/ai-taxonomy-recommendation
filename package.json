@@ -22,7 +22,7 @@
   "homepage": "https://github.com/Kevov/ai-taxonomy-recommendation#readme",
   "dependencies": {
     "@langchain/community": "^0.3.44",
-    "@langchain/core": "^0.3.57",
+    "@langchain/core": "^0.3.80",
     "@langchain/google-genai": "^0.2.9",
     "@langchain/mongodb": "^0.1.0",
     "cors": "^2.8.5",
